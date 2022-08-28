@@ -26,11 +26,12 @@ To secure a challenging, _hands-on_ position that utilizes my software engineeri
 <img align="center" src="https://activity-graph.herokuapp.com/graph?theme=react-dark&username=gangelo" alt="gangelo" />  
 </p>
 
+<p>
+<a href="https://stackoverflow.com/users/416122/gangelo"><img src="https://stackoverflow.com/users/flair/416122.png?theme=dark" width="208" height="58" alt="profile for gangelo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gangelo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
 
 #### Links
-- [LinkedIn](https://www.linkedin.com/in/geneangelo)
-- [RubyGems](https://rubygems.org/profiles/gangelo)
-
+[LinkedIn](https://www.linkedin.com/in/geneangelo) | [RubyGems](https://rubygems.org/profiles/gangelo)
 
 #### Contact
 :e-mail: I can be reached at: public(dot)gma(at)gmail(dot)com
