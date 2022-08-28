@@ -2,6 +2,31 @@
 
 ![counter](https://en8kx5ujr7pir9h.m.pipedream.net)
 
+#### About
+
+Articulate, attention to detail, customer service-oriented, problem-solving, Senior Software Engineer/Architect specializing in full-stack application development.
+
+#### Objective
+
+To secure a challenging, _hands-on_ position that utilizes my software engineering/architect skills, technical know-how, and passion for the art of software development.
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangelo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="gangelo" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangelo&theme=chartreuse-dark&show_icons=true&locale=en" alt="gangelo" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gangelo&theme=dark" alt="gangelo" />
+</p>
+
+<p>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?theme=react-dark&username=gangelo" alt="gangelo" />  
+</p>
+
+
 #### Links
 - [LinkedIn](https://www.linkedin.com/in/geneangelo)
 - [RubyGems](https://rubygems.org/profiles/gangelo)
