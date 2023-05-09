@@ -10,16 +10,10 @@ Articulate, attention to detail, customer service-oriented, problem-solving, Sen
 
 To secure a challenging, _hands-on_ position that utilizes my software engineering/architect skills, technical know-how, and passion for the art of software development.
 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gangelo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="gangelo" />  
-
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gangelo&theme=dark" alt="gangelo" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangelo&theme=chartreuse-dark&show_icons=true&locale=en" alt="gangelo" />
-
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?theme=react-dark&username=gangelo" alt="gangelo" />  
-
 
 ## Links
 [GitHub](https://github.com/gangelo) | [LinkedIn](https://www.linkedin.com/in/geneangelo) | [RubyGems](https://rubygems.org/profiles/gangelo)
