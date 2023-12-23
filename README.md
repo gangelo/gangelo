@@ -4,7 +4,7 @@
 
 ## About
 
-With over 10 years of experience as a full-stack software engineer and architect, I specialize in developing and delivering professional, user-friendly, and secure web applications using Ruby on Rails, React, Redux, and other technologies. I am currently a senior Ruby on Rails engineer and Team Lead at [Alpha Omega](https://alphaomega.com/), where I work on high-visibility projects for the U.S. Department of Homeland Security's Global team.
+With 30 years of total experience, over 10 as a full-stack software engineer and architect, I specialize in developing and delivering professional, user-friendly, and secure web applications using Ruby on Rails, React, Redux, and other technologies. I am currently a senior Ruby on Rails engineer and Team Lead at Alpha Omega, where I work on high-visibility projects for the U.S. Department of Homeland Security's Global team.
 
 I am passionate about applying best practices such as test-driven development, Agile methodologies, code reviews, and mentoring to ensure high-quality, timely, and efficient software solutions. I have strong skills in designing and implementing RESTful APIs, JSON, JWT, and other web standards. I also have experience with AWS, Heroku, Git, RSpec, Capybara, and other tools and frameworks. I truly care about people and enjoy collaborating with product managers, designers, and my fellow developers to deliver features and bug fixes that meet user needs and expectations.
 
